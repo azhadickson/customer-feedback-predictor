@@ -1,0 +1,389 @@
+Age,Gender,Marital Status,Occupation,Monthly Income,Educational Qualifications,Family size,Feedback
+20,Female,Single,Student,No Income,Post Graduate,4,Positive
+24,Female,Single,Student,Low,Graduate,3,Positive
+22,Male,Single,Student,Low,Post Graduate,3,Negative 
+22,Female,Single,Student,No Income,Graduate,6,Positive
+22,Male,Single,Student,Low,Post Graduate,4,Positive
+27,Female,Married,Employee,Very High,Post Graduate,2,Positive
+22,Male,Single,Student,No Income,Graduate,3,Positive
+24,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,2,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+22,Female,Single,Student,No Income,Post Graduate,5,Positive
+23,Male,Single,Student,Low,Post Graduate,2,Negative 
+23,Male,Single,Student,No Income,Post Graduate,5,Positive
+21,Male,Single,Student,No Income,Graduate,4,Positive
+23,Female,Single,Self Employeed,High,Post Graduate,5,Positive
+24,Female,Single,Student,No Income,Post Graduate,6,Positive
+28,Female,Single,Employee,High,Post Graduate,2,Positive
+23,Female,Single,Student,No Income,Graduate,3,Negative 
+25,Male,Single,Student,No Income,Graduate,4,Negative 
+21,Female,Single,Student,Low,Post Graduate,1,Positive
+24,Male,Single,Student,No Income,Post Graduate,3,Positive
+22,Male,Single,Student,No Income,Post Graduate,4,Positive
+22,Female,Single,Student,No Income,Graduate,4,Positive
+23,Male,Single,Student,No Income,Graduate,4,Positive
+21,Male,Single,Student,Low,Post Graduate,3,Positive
+25,Male,Single,Student,No Income,Post Graduate,3,Positive
+22,Female,Single,Student,No Income,Post Graduate,5,Positive
+22,Male,Single,Student,No Income,Post Graduate,3,Positive
+23,Female,Single,Employee,High,Graduate,3,Positive
+22,Male,Single,Student,Low,Post Graduate,4,Positive
+22,Female,Single,Employee,High,Graduate,5,Positive
+22,Male,Single,Student,No Income,Post Graduate,4,Positive
+25,Male,Married,Employee,Very High,Ph.D,4,Positive
+22,Female,Single,Student,High,Post Graduate,5,Positive
+22,Female,Single,Student,No Income,Post Graduate,2,Positive
+25,Male,Single,Student,High,Post Graduate,3,Positive
+25,Male,Single,Student,No Income,Post Graduate,5,Positive
+32,Female,Prefer not to say,House wife,No Income,Graduate,5,Negative 
+23,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+30,Male,Married,Self Employeed,Very High,Uneducated,4,Negative 
+23,Male,Single,Student,No Income,Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,4,Positive
+22,Female,Single,Student,No Income,Post Graduate,5,Positive
+22,Male,Single,Student,No Income,Graduate,5,Positive
+27,Female,Married,Self Employeed,High,Post Graduate,2,Positive
+24,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,2,Positive
+23,Female,Single,Student,No Income,Graduate,3,Negative 
+22,Female,Single,Student,High,Post Graduate,5,Positive
+23,Female,Single,Student,No Income,Graduate,5,Positive
+23,Female,Single,Student,No Income,Post Graduate,2,Positive
+24,Male,Single,Student,No Income,Post Graduate,3,Positive
+25,Male,Single,Student,No Income,Post Graduate,2,Positive
+22,Male,Single,Student,No Income,Post Graduate,3,Positive
+28,Female,Married,Student,No Income,Graduate,2,Positive
+22,Female,Single,Student,No Income,Post Graduate,1,Positive
+24,Female,Single,Student,No Income,Graduate,3,Positive
+31,Male,Married,Employee,Very High,Ph.D,5,Positive
+25,Male,Single,Student,No Income,Post Graduate,4,Positive
+23,Male,Single,Student,No Income,Post Graduate,5,Positive
+22,Male,Single,Student,No Income,Post Graduate,3,Positive
+23,Male,Single,Student,High,Post Graduate,1,Positive
+23,Male,Single,Student,No Income,Graduate,4,Positive
+23,Female,Single,Student,No Income,Post Graduate,2,Positive
+25,Male,Single,Student,No Income,Post Graduate,6,Positive
+24,Male,Single,Employee,High,Graduate,4,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+24,Female,Married,Employee,Very High,Ph.D,4,Positive
+22,Male,Single,Student,No Income,Graduate,4,Positive
+24,Female,Single,Student,High,Post Graduate,3,Positive
+25,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,2,Positive
+26,Male,Single,Student,No Income,Post Graduate,4,Positive
+24,Female,Single,Student,High,Post Graduate,3,Positive
+26,Male,Single,Student,No Income,Post Graduate,4,Positive
+21,Male,Single,Student,No Income,Graduate,4,Positive
+22,Female,Single,Student,No Income,Post Graduate,3,Positive
+24,Male,Single,Student,No Income,Post Graduate,5,Positive
+24,Male,Single,Student,High,Post Graduate,4,Positive
+23,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,3,Positive
+22,Male,Single,Student,No Income,Post Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,3,Positive
+24,Female,Single,Student,No Income,Post Graduate,4,Positive
+24,Male,Single,Student,No Income,Post Graduate,5,Positive
+25,Male,Single,Student,No Income,Graduate,1,Positive
+25,Male,Single,Student,No Income,Post Graduate,5,Positive
+28,Male,Married,Self Employeed,High,Graduate,2,Negative 
+27,Female,Prefer not to say,Employee,High,Post Graduate,5,Positive
+26,Male,Single,Self Employeed,High,Ph.D,1,Positive
+22,Male,Single,Student,No Income,Post Graduate,2,Positive
+24,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,1,Positive
+25,Male,Single,Student,No Income,Graduate,1,Positive
+23,Female,Single,Student,No Income,Graduate,5,Positive
+23,Female,Single,Student,No Income,Graduate,5,Positive
+26,Male,Married,Employee,High,Graduate,5,Positive
+32,Female,Married,House wife,No Income,Uneducated,3,Positive
+24,Female,Single,Student,High,Post Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,2,Positive
+22,Female,Single,Employee,High,Graduate,3,Positive
+24,Female,Single,Student,No Income,Ph.D,3,Positive
+26,Male,Single,Employee,High,Graduate,2,Negative 
+28,Male,Married,Employee,Very High,Graduate,3,Positive
+26,Male,Single,Employee,Very High,Post Graduate,2,Positive
+25,Male,Single,Student,No Income,Post Graduate,1,Positive
+25,Male,Single,Employee,Low,Graduate,2,Positive
+18,Male,Single,Student,No Income,Graduate,5,Positive
+21,Male,Single,Student,No Income,Post Graduate,4,Positive
+25,Male,Single,Student,No Income,Post Graduate,1,Positive
+25,Male,Single,Student,Low,Post Graduate,2,Positive
+23,Female,Single,Student,No Income,Graduate,5,Positive
+23,Male,Single,Employee,High,Post Graduate,2,Positive
+25,Female,Married,Employee,High,Graduate,4,Negative 
+31,Female,Married,House wife,No Income,School,5,Positive
+24,Male,Prefer not to say,Self Employeed,Very High,Ph.D,2,Positive
+32,Female,Married,Employee,High,Graduate,5,Positive
+25,Male,Single,Employee,High,Graduate,3,Positive
+27,Female,Married,Self Employeed,Very High,Graduate,5,Positive
+26,Male,Single,Self Employeed,High,Graduate,3,Positive
+26,Female,Single,Self Employeed,High,Post Graduate,3,Positive
+32,Male,Married,Employee,Very High,Ph.D,5,Negative 
+24,Male,Married,Self Employeed,Very High,Ph.D,6,Negative 
+27,Female,Married,Self Employeed,High,Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,3,Positive
+25,Male,Single,Student,No Income,Post Graduate,4,Positive
+23,Male,Single,Student,No Income,Post Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+28,Male,Married,Employee,Very High,Post Graduate,3,Positive
+32,Female,Married,Employee,Very High,Graduate,1,Positive
+23,Male,Single,Student,No Income,Post Graduate,2,Positive
+19,Male,Single,Student,No Income,Graduate,2,Negative 
+19,Female,Single,Student,No Income,Graduate,4,Positive
+27,Female,Married,Employee,High,Post Graduate,2,Positive
+25,Male,Single,Self Employeed,High,Graduate,3,Positive
+33,Male,Married,Employee,Very High,Ph.D,5,Negative 
+26,Female,Single,Employee,Very High,Graduate,3,Positive
+22,Female,Single,Student,Low,Post Graduate,4,Positive
+23,Male,Single,Student,No Income,Post Graduate,3,Positive
+22,Female,Single,Student,No Income,Graduate,3,Negative 
+25,Male,Married,Employee,High,Graduate,2,Positive
+30,Female,Married,House wife,No Income,School,5,Positive
+24,Male,Single,Student,No Income,Post Graduate,3,Negative 
+25,Male,Single,Employee,High,Post Graduate,3,Positive
+23,Male,Single,Student,Very High,Post Graduate,3,Positive
+24,Female,Single,Student,No Income,Post Graduate,4,Positive
+32,Male,Married,Employee,High,Graduate,4,Positive
+22,Male,Single,Student,No Income,Post Graduate,4,Positive
+23,Male,Single,Student,Very High,Post Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+20,Male,Single,Student,No Income,Graduate,2,Positive
+21,Male,Single,Student,No Income,Graduate,2,Positive
+24,Female,Married,Self Employeed,High,Graduate,5,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+25,Male,Single,Employee,High,Post Graduate,3,Positive
+32,Female,Married,House wife,No Income,Graduate,3,Positive
+27,Male,Married,Employee,Very High,Ph.D,5,Negative 
+20,Female,Single,Student,No Income,Graduate,2,Positive
+21,Male,Single,Student,No Income,Graduate,2,Positive
+26,Male,Single,Employee,Very High,Post Graduate,3,Negative 
+25,Male,Single,Employee,High,Graduate,4,Positive
+26,Male,Single,Employee,High,Post Graduate,3,Positive
+26,Female,Married,Employee,High,Graduate,3,Positive
+27,Male,Single,Employee,Very High,Ph.D,4,Positive
+27,Female,Single,Student,No Income,Ph.D,5,Negative 
+24,Female,Single,Student,No Income,Post Graduate,5,Positive
+25,Male,Married,Self Employeed,Very High,School,2,Positive
+20,Male,Single,Student,No Income,Graduate,2,Negative 
+22,Male,Single,Student,No Income,Post Graduate,1,Positive
+26,Female,Married,Student,Low,Ph.D,3,Positive
+27,Male,Prefer not to say,Employee,High,Post Graduate,1,Positive
+25,Female,Single,Student,No Income,Post Graduate,3,Positive
+24,Male,Single,Employee,Low,Graduate,2,Positive
+23,Female,Single,Employee,High,Graduate,6,Positive
+22,Male,Single,Student,No Income,Graduate,2,Positive
+26,Male,Married,Self Employeed,Very High,Post Graduate,3,Negative 
+26,Male,Single,Employee,Low,Post Graduate,1,Negative 
+25,Female,Married,Self Employeed,High,Post Graduate,3,Positive
+29,Female,Married,Employee,Very High,Graduate,3,Positive
+23,Male,Single,Student,Low,Graduate,3,Negative 
+22,Female,Single,Employee,High,Graduate,4,Positive
+22,Male,Single,Student,No Income,Graduate,2,Positive
+32,Female,Married,House wife,No Income,School,5,Positive
+28,Male,Married,Employee,Very High,Post Graduate,1,Positive
+22,Male,Single,Student,No Income,Post Graduate,2,Positive
+25,Male,Single,Employee,High,Graduate,2,Positive
+26,Female,Married,Employee,High,Post Graduate,2,Negative 
+31,Male,Married,Self Employeed,Very High,School,6,Positive
+24,Male,Single,Student,No Income,Post Graduate,3,Negative 
+24,Male,Single,Employee,High,Post Graduate,2,Positive
+31,Female,Married,Employee,Very High,Ph.D,5,Positive
+26,Male,Single,Employee,High,Graduate,2,Positive
+24,Female,Married,Self Employeed,Very High,Graduate,2,Positive
+22,Female,Single,Student,No Income,Graduate,3,Positive
+19,Male,Single,Student,No Income,Graduate,6,Positive
+25,Male,Married,Employee,Very High,Post Graduate,6,Positive
+23,Female,Married,House wife,No Income,School,6,Positive
+23,Female,Single,Student,No Income,Graduate,2,Negative 
+23,Male,Single,Student,No Income,Post Graduate,2,Positive
+24,Male,Single,Student,No Income,Post Graduate,5,Positive
+22,Female,Single,Employee,High,Graduate,4,Positive
+26,Male,Married,Employee,Very High,Graduate,4,Positive
+25,Female,Single,Student,No Income,Ph.D,3,Positive
+20,Male,Single,Student,No Income,Graduate,2,Positive
+29,Male,Married,Employee,High,Graduate,4,Negative 
+23,Female,Single,Student,No Income,Graduate,1,Positive
+25,Male,Single,Self Employeed,Very High,Graduate,2,Positive
+29,Female,Married,Employee,High,Graduate,4,Negative 
+27,Male,Married,Self Employeed,High,Graduate,6,Negative 
+25,Male,Single,Self Employeed,High,Graduate,3,Positive
+21,Male,Single,Student,No Income,Graduate,2,Negative 
+23,Male,Single,Student,No Income,Graduate,3,Positive
+24,Female,Single,Employee,High,Post Graduate,4,Positive
+32,Male,Married,Self Employeed,High,School,3,Negative 
+28,Male,Married,Employee,High,Post Graduate,5,Positive
+26,Male,Single,Employee,High,Graduate,2,Negative 
+31,Female,Married,House wife,No Income,Graduate,5,Positive
+27,Female,Married,Self Employeed,High,Graduate,3,Positive
+21,Female,Single,Student,No Income,Post Graduate,1,Positive
+23,Female,Single,Student,No Income,Graduate,2,Positive
+26,Male,Married,Employee,High,Graduate,4,Positive
+32,Male,Married,Employee,Very High,Graduate,5,Positive
+25,Female,Married,Student,No Income,Post Graduate,2,Positive
+28,Male,Single,Self Employeed,High,Post Graduate,2,Positive
+21,Female,Single,Student,No Income,Post Graduate,3,Positive
+24,Male,Single,Student,No Income,Post Graduate,2,Positive
+26,Female,Married,Self Employeed,High,Graduate,5,Negative 
+32,Male,Married,Employee,High,Graduate,3,Positive
+29,Male,Single,Self Employeed,Very High,Graduate,6,Positive
+21,Male,Single,Student,No Income,Graduate,5,Positive
+24,Female,Single,Self Employeed,High,Post Graduate,3,Negative 
+26,Male,Prefer not to say,Self Employeed,Very High,Post Graduate,2,Positive
+25,Male,Married,Employee,Very High,Ph.D,3,Positive
+29,Male,Single,Employee,High,Graduate,3,Negative 
+22,Male,Single,Student,No Income,Graduate,3,Positive
+24,Male,Single,Student,No Income,Graduate,2,Positive
+27,Male,Married,Employee,High,Graduate,2,Positive
+23,Female,Single,Student,No Income,Post Graduate,3,Positive
+32,Male,Married,Employee,Very High,Post Graduate,6,Positive
+22,Female,Single,Student,No Income,Graduate,2,Positive
+28,Male,Married,Employee,High,Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,2,Positive
+30,Male,Married,Self Employeed,Very High,Graduate,1,Negative 
+21,Male,Single,Student,No Income,Graduate,3,Positive
+26,Female,Married,Employee,Low,Graduate,6,Negative 
+25,Male,Single,Self Employeed,Very High,School,3,Positive
+31,Male,Prefer not to say,Employee,Low,Graduate,1,Negative 
+23,Female,Single,Employee,High,Post Graduate,2,Positive
+29,Female,Married,Employee,High,Ph.D,3,Positive
+21,Male,Single,Student,No Income,Graduate,6,Positive
+20,Male,Single,Student,No Income,Graduate,3,Positive
+22,Male,Single,Employee,High,Graduate,2,Positive
+30,Female,Married,House wife,No Income,School,6,Positive
+27,Male,Married,Self Employeed,Very High,Graduate,3,Positive
+23,Male,Single,Student,No Income,Post Graduate,2,Negative 
+30,Male,Married,Self Employeed,High,School,6,Negative 
+23,Male,Single,Student,No Income,Post Graduate,3,Positive
+28,Female,Married,Employee,High,Post Graduate,6,Negative 
+30,Male,Married,Self Employeed,Very High,Graduate,6,Positive
+24,Female,Married,Employee,High,Post Graduate,2,Negative 
+21,Male,Single,Student,No Income,Graduate,2,Negative 
+23,Female,Prefer not to say,Employee,High,Graduate,3,Negative 
+25,Male,Married,Self Employeed,Very High,Post Graduate,4,Positive
+24,Female,Single,Employee,High,Graduate,2,Positive
+26,Male,Married,Employee,High,Graduate,3,Negative 
+25,Female,Single,Employee,High,Post Graduate,2,Positive
+22,Male,Single,Student,High,Graduate,3,Positive
+26,Female,Single,Employee,High,Post Graduate,2,Positive
+23,Male,Single,Employee,High,Graduate,2,Positive
+21,Female,Single,Employee,Low,Graduate,2,Negative 
+25,Male,Married,Self Employeed,High,Graduate,3,Positive
+24,Female,Married,Employee,High,Post Graduate,2,Positive
+22,Male,Married,Student,No Income,Graduate,2,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+24,Male,Married,Employee,Very High,Post Graduate,3,Positive
+22,Female,Single,Student,No Income,Graduate,2,Positive
+30,Male,Married,Employee,Very High,Graduate,5,Negative 
+23,Female,Prefer not to say,Employee,High,Graduate,4,Positive
+19,Male,Single,Student,No Income,Graduate,6,Positive
+21,Female,Single,Student,No Income,Graduate,2,Positive
+23,Male,Single,Student,No Income,Graduate,4,Positive
+24,Female,Single,Employee,High,Graduate,3,Positive
+26,Female,Married,Employee,High,Post Graduate,2,Positive
+26,Female,Single,Student,No Income,Ph.D,2,Positive
+25,Female,Single,Student,High,Graduate,2,Positive
+28,Female,Married,Employee,High,Graduate,5,Negative 
+25,Female,Single,Student,No Income,Post Graduate,3,Positive
+20,Female,Single,Student,No Income,Graduate,2,Positive
+27,Female,Married,Self Employeed,Very High,Graduate,6,Positive
+25,Female,Married,Employee,High,Graduate,3,Positive
+24,Female,Single,Student,No Income,Post Graduate,5,Negative 
+25,Female,Married,Employee,Very High,Graduate,1,Negative 
+25,Female,Prefer not to say,Employee,High,Post Graduate,3,Negative 
+24,Female,Married,Student,Low,Ph.D,5,Positive
+24,Male,Single,Student,No Income,Post Graduate,3,Positive
+22,Male,Single,Employee,High,Graduate,1,Positive
+28,Male,Single,Employee,High,Post Graduate,2,Negative 
+25,Female,Single,Employee,Very High,Post Graduate,6,Negative 
+22,Male,Single,Student,Low,Post Graduate,3,Negative 
+22,Female,Single,Student,No Income,Graduate,6,Positive
+22,Male,Single,Student,Low,Post Graduate,4,Positive
+27,Female,Married,Employee,Very High,Post Graduate,2,Positive
+22,Male,Single,Student,No Income,Graduate,3,Positive
+24,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,2,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+22,Female,Single,Student,No Income,Post Graduate,5,Positive
+23,Male,Single,Student,Low,Post Graduate,2,Negative 
+32,Male,Married,Employee,Very High,Graduate,5,Positive
+25,Female,Married,Student,No Income,Post Graduate,2,Positive
+28,Male,Single,Self Employeed,High,Post Graduate,2,Positive
+21,Female,Single,Student,No Income,Post Graduate,3,Positive
+24,Male,Single,Student,No Income,Post Graduate,2,Positive
+26,Female,Married,Self Employeed,High,Graduate,5,Negative 
+32,Male,Married,Employee,High,Graduate,3,Positive
+29,Male,Single,Self Employeed,Very High,Graduate,6,Positive
+21,Male,Single,Student,No Income,Graduate,5,Positive
+24,Female,Single,Self Employeed,High,Post Graduate,3,Negative 
+26,Male,Prefer not to say,Self Employeed,Very High,Post Graduate,2,Positive
+21,Male,Married,Employee,Very High,Ph.D,3,Positive
+29,Male,Single,Employee,High,Graduate,3,Negative 
+22,Male,Single,Student,No Income,Graduate,3,Positive
+24,Male,Single,Student,No Income,Graduate,2,Positive
+27,Male,Married,Employee,High,Graduate,2,Positive
+23,Female,Single,Student,No Income,Post Graduate,3,Positive
+32,Male,Married,Employee,Very High,Post Graduate,6,Positive
+22,Female,Single,Student,No Income,Graduate,2,Positive
+22,Female,Single,Employee,High,Graduate,4,Positive
+26,Male,Married,Employee,Very High,Graduate,4,Positive
+25,Female,Single,Student,No Income,Ph.D,3,Positive
+20,Male,Single,Student,No Income,Graduate,2,Positive
+29,Male,Married,Employee,High,Graduate,4,Negative 
+23,Female,Single,Student,No Income,Graduate,1,Positive
+25,Male,Single,Self Employeed,Very High,Graduate,2,Positive
+29,Female,Married,Employee,High,Graduate,4,Negative 
+27,Male,Married,Self Employeed,High,Graduate,6,Positive
+25,Male,Single,Self Employeed,High,Graduate,3,Positive
+21,Male,Single,Student,No Income,Graduate,2,Negative 
+23,Male,Single,Student,No Income,Graduate,3,Positive
+24,Female,Single,Employee,High,Post Graduate,4,Positive
+22,Male,Married,Self Employeed,High,School,3,Negative 
+28,Male,Married,Employee,High,Post Graduate,5,Positive
+26,Male,Single,Employee,High,Graduate,2,Negative 
+22,Female,Single,Employee,High,Graduate,4,Positive
+26,Male,Married,Employee,Very High,Graduate,4,Positive
+25,Female,Single,Student,No Income,Ph.D,3,Positive
+20,Male,Single,Student,No Income,Graduate,2,Positive
+29,Male,Married,Employee,High,Graduate,4,Negative 
+23,Female,Single,Student,No Income,Graduate,1,Positive
+25,Male,Single,Self Employeed,Very High,Graduate,2,Positive
+29,Female,Married,Employee,High,Graduate,4,Positive
+27,Male,Married,Self Employeed,High,Graduate,6,Positive
+25,Male,Single,Self Employeed,High,Graduate,3,Positive
+21,Male,Single,Student,No Income,Graduate,2,Positive
+24,Male,Single,Student,No Income,Post Graduate,2,Positive
+26,Female,Married,Self Employeed,High,Graduate,5,Negative 
+32,Male,Married,Employee,High,Graduate,3,Positive
+29,Male,Single,Self Employeed,Very High,Graduate,6,Positive
+21,Male,Single,Student,No Income,Graduate,5,Positive
+24,Female,Single,Self Employeed,High,Post Graduate,3,Negative 
+26,Male,Prefer not to say,Self Employeed,Very High,Post Graduate,2,Positive
+31,Male,Married,Employee,Very High,Ph.D,3,Positive
+29,Male,Single,Employee,High,Graduate,3,Negative 
+22,Male,Single,Student,No Income,Graduate,3,Positive
+24,Male,Single,Student,No Income,Graduate,2,Positive
+27,Male,Married,Employee,High,Graduate,2,Positive
+23,Female,Single,Student,No Income,Post Graduate,3,Positive
+30,Male,Married,Employee,Very High,Post Graduate,6,Positive
+22,Female,Single,Student,No Income,Graduate,2,Positive
+28,Male,Married,Employee,High,Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,2,Positive
+30,Male,Married,Self Employeed,Very High,Graduate,1,Negative 
+21,Male,Single,Student,No Income,Graduate,3,Negative 
+26,Female,Married,Employee,Low,Graduate,6,Negative 
+25,Male,Single,Self Employeed,Very High,School,3,Positive
+31,Male,Prefer not to say,Employee,Low,Graduate,1,Negative 
+23,Female,Single,Employee,High,Post Graduate,2,Positive
+22,Male,Single,Student,Low,Post Graduate,4,Positive
+27,Female,Married,Employee,Very High,Post Graduate,2,Positive
+22,Male,Single,Student,No Income,Graduate,3,Positive
+24,Female,Single,Student,No Income,Post Graduate,3,Positive
+23,Female,Single,Student,No Income,Post Graduate,2,Positive
+23,Female,Single,Student,No Income,Post Graduate,4,Positive
+22,Female,Single,Student,No Income,Post Graduate,5,Positive
+23,Male,Single,Student,Low,Post Graduate,2,Positive
+23,Male,Single,Student,No Income,Post Graduate,5,Positive
