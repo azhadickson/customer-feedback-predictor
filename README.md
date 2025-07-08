@@ -1,4 +1,4 @@
-# 🧠 Customer Feedback Prediction
+# Customer Feedback Prediction
 
 This project focuses on predicting whether a customer will leave **positive or negative feedback** for online food orders. Using features like age, income, and education, I built a classification model to analyze sentiment trends and evaluate baseline performance using **Naive Bayes**.
 
@@ -6,7 +6,7 @@ The goal was to explore how user demographics and behavior relate to feedback, a
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset includes customer-level information from an online food ordering system:
 
@@ -16,13 +16,13 @@ The dataset includes customer-level information from an online food ordering sys
 - `Occupation`
 - `Monthly Income`
 - `Educational Qualifications`
-- `Feedback` *(target: Positive or Negative)*
+- `Feedback` *(target variable: Positive or Negative)*
 
 **Original file**: `onlinefoods.csv`
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 ### Data Exploration
 - Loaded and inspected the dataset
@@ -39,7 +39,7 @@ The dataset includes customer-level information from an online food ordering sys
 
 ---
 
-## 📊 Results
+## Results
 
 - **Test Accuracy**: **80.77%**
 - **Distribution Insight**: 
@@ -48,7 +48,7 @@ The dataset includes customer-level information from an online food ordering sys
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - **Younger users** are generally more likely to leave **positive feedback**
 - **Age** appears to be a distinguishing factor in predicting sentiment
